@@ -51,7 +51,7 @@
     <main>
 
         <div class="search-container">
-            <form action="weatherAPI.php" method="post">
+            <form action="index.php" method="post">
                 <input type="text" name="city" placeholder="Search City.." id="city">
                 <input type="submit" name="submit" value="Search">
 
